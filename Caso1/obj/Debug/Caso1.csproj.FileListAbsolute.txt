@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\ET\Final\Caso1\obj\Debug\Caso1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\ET\Final\Caso1\obj\Debug\Caso1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\ET\Final\Caso1\obj\Debug\Caso1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\ET\Final\Caso1\bin\Debug\Caso1.exe.config
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\ET\Final\Caso1\bin\Debug\Caso1.exe
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\ET\Final\Caso1\bin\Debug\Caso1.pdb
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\ET\Final\Caso1\obj\Debug\Caso1.exe
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\ET\Final\Caso1\obj\Debug\Caso1.pdb
+D:\UPN-Estructura\ESTRUCTURA DE DATOS\ET\Final\Caso1\bin\Debug\Caso1.exe.config
+D:\UPN-Estructura\ESTRUCTURA DE DATOS\ET\Final\Caso1\bin\Debug\Caso1.exe
+D:\UPN-Estructura\ESTRUCTURA DE DATOS\ET\Final\Caso1\bin\Debug\Caso1.pdb
+D:\UPN-Estructura\ESTRUCTURA DE DATOS\ET\Final\Caso1\obj\Debug\Caso1.csproj.AssemblyReference.cache
+D:\UPN-Estructura\ESTRUCTURA DE DATOS\ET\Final\Caso1\obj\Debug\Caso1.csproj.CoreCompileInputs.cache
+D:\UPN-Estructura\ESTRUCTURA DE DATOS\ET\Final\Caso1\obj\Debug\Caso1.exe
+D:\UPN-Estructura\ESTRUCTURA DE DATOS\ET\Final\Caso1\obj\Debug\Caso1.pdb
